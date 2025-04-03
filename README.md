@@ -19,7 +19,7 @@ It’s **coping as a service**.
 
 ## Installation
 
-```bash
+bash
 npm install delusion
 cd ~/disappointment
 yarn start --force
