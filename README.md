@@ -22,7 +22,7 @@ It’s **coping as a service**.
 ```bash
 npm install delusion
 cd ~/disappointment
-yarn start --force```
+yarn start --force
 
 ## Track Highlights
 It's Working, But I Don’t Know Why – a developer love song to chaos
