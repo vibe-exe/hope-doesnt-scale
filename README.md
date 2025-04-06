@@ -9,7 +9,7 @@ It’s a retrospective disguised as lofi.
 A slow, ambient postmortem for a startup that never launched—but definitely crashed.
 
 **Hope Doesn’t Scale** is 13 tracks of melancholy, false confidence, and quietly unresolved feature requests.  
-Written by AI. Mixed in a fugue state.  
+Written in dark communion between man and AI. Mixed in a fugue state.  Mastered through $87k of outboard analog gear that I'll now need to sell to cover my non-emotional, non-tech debt.
 Brought to you by someone who still checks their metrics even though the app’s been offline for six months.
 
 It's not just code. It's not just vibes.  
